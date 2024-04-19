@@ -1,0 +1,38 @@
+
+.container{
+    width: 80%;
+    max-width: 1170px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 50px;
+    overflow: hidden;
+    padding: 5rem 0;
+}
+.container .imgwrapper{
+    overflow: hidden;
+}
+.container .imgwrapper img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.3s;
+}
+.container .imgwrapper img:hover{
+    transform: scale(1.25);
+    cursor: pointer;
+}
+.container .contentwrapper
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 3%;
+}
+.textwrapper span{
+    
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+}
+

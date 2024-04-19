@@ -1,0 +1,66 @@
+.cart {
+    float: left;
+    margin-left: 4%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px; /* Adjusted height to accommodate content */
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex; /* Use flexbox for better alignment */
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: space-between; /* Space evenly between elements */
+    align-items: center; /* Center items horizontally */
+    margin-bottom: 1%;
+    overflow: hidden; /* Hide overflow content */
+}
+
+.cart:hover {
+    transform: scale(1.05); /* Scale up a bit on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cart img {
+    width: 120px; /* Adjusted width for all images */
+    height: 120px; /* Adjusted height for all images */
+    border-radius: 50%;
+    object-fit: cover; /* Ensure images maintain aspect ratio */
+}
+
+.cart .prdName {
+    color: #333333;
+    font-weight: bold;
+    text-align: center; /* Center product name */
+    margin-top: 10px; /* Add some space between image and name */
+    font-size: 18px; /* Increase font size */
+}
+
+.cart .prdPrice {
+    color: #ff4500;
+    font-weight: bold;
+    font-size: 16px; /* Increase font size */
+}
+
+.cart .view {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.cart .view input[type="submit"] {
+    cursor: pointer; /* Show pointer cursor on hover */
+    background-color: #ff4500; /* Orange background color */
+    color: white; /* White text color */
+    border: none;
+    border-radius: 5px;
+    padding: 8px 20px; /* Add padding */
+    font-size: 16px; /* Increase font size */
+    transition: background-color 0.3s ease; /* Smooth color transition */
+}
+
+.cart .view input[type="submit"]:hover {
+    background-color: #e63900; /* Darker orange on hover */
+}

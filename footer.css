@@ -1,0 +1,68 @@
+footer {
+    background-color: #333; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 20px 0; /* Add padding to top and bottom */
+  }
+  
+
+  
+  .row {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-around; /* Space items evenly */
+  }
+  
+  .footer-col {
+    width: 30%; /* Set width of each column */
+  }
+  
+  .footer-col h4 {
+    text-decoration: underline;
+    color: #fff; 
+    font-size: 18px; 
+  }
+  
+  .footer-col ul {
+    list-style-type: none; 
+    padding: 0; 
+  }
+  
+  .footer-col ul li {
+    margin-bottom: 10px; 
+  }
+  
+  .footer-col ul li a {
+    color: #fff; 
+    text-decoration: none; 
+    font-size: 16px; 
+  }
+  
+  .footer-col ul li a:hover {
+    color: #ccc; /* Change color on hover */
+  }
+  .header{
+
+    font-size: large;
+  }
+  .mainheader{
+    font-size: larger;
+    margin-left: 5%;
+    
+  }
+  .end{
+    margin-left: 30%;
+    font-size: large;
+  }
+  .icon {
+    font-size: 24px; /* Set font size */
+    margin: 0 10px; /* Add margin */
+    color: #fff; /* Set color */
+  }
+  
+  .icon + .icon {
+    margin-left: 20px; /* Add space between icons */
+  }
+  
+  .icon:hover {
+    color: #ff4500; /* Change color on hover */
+  }
+  

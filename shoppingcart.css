@@ -1,0 +1,68 @@
+/* shoppingcart.css */
+
+.shoppingCartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.shoppingCartTable {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+.shoppingCartTable th,
+.shoppingCartTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.shoppingCartTable th {
+  background-color: #f2f2f2;
+}
+
+.shoppingCartTable img {
+  max-width: 100px;
+  height: auto;
+}
+
+.actionButton {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.shoppingCartTable .actionButton:hover {
+  background-color: #c82333;
+}
+
+.checkoutButton {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  margin-bottom: 5%;
+  margin-right: 19%;
+}
+
+.checkoutButton:hover {
+  background-color: #0056b3;
+}
+
+.totalamount {
+  font-weight: bold;
+  text-align: center;
+}
+
+.totalamount span {
+  color: red;
+}

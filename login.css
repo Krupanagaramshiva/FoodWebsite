@@ -1,0 +1,26 @@
+.login-container {
+    background-image: url('./Banner/hyderbadbiryani.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+  border: 3px solid whitesmoke;
+  padding: 3%;
+
+}
+.form label {
+  color: white;
+  font-weight: bold;
+}
+.form h1
+{
+    color: white;
+    text-align: center;
+    margin-bottom: 10%;
+    font-size: xx-large;
+    font-weight: 500;
+}
