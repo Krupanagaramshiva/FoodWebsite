@@ -1,0 +1,346 @@
+{
+  "user": [
+    {
+      "id": "2",
+      "category": "veg",
+      "itemname": "Hyderabadi Sofiyani Biryani",
+      "price": 220,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsf6piWKV5iabavOwslYc0vgkfRdBADIdaFLr5j_MzQ&s"
+    },
+    {
+      "id": "4",
+      "category": "veg",
+      "itemname": "Minty Paneer Biryani",
+      "price": 320,
+      "image": "https://i.pinimg.com/736x/2f/a3/07/2fa3077291f6622030c7b9d81b4432c8.jpg"
+    },
+    {
+      "id": "5",
+      "category": "veg",
+      "itemname": "Kabuli Chana Kofta Biryani",
+      "price": 210,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdYPQeCIVew1lqKw1zIcxUaYZ8GAL9WXkrhHq-gRrAg&s"
+    },
+    {
+      "id": "6",
+      "category": "veg",
+      "itemname": "Layered Bread Kofta Biryani",
+      "price": 180,
+      "image": "https://cdn.tarladalal.com/members/9306/big/big_bread_kofta_biryani_(__chawal)-11750.jpg"
+    },
+    {
+      "id": "7",
+      "category": "veg",
+      "itemname": "Almond Birya",
+      "price": 180,
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg"
+    },
+    {
+      "id": "8",
+      "category": "non-veg",
+      "itemname": "Chicken-biryani",
+      "price": 250,
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg"
+    },
+    {
+      "id": "9",
+      "category": "non-veg",
+      "itemname": "mutton-biryni",
+      "price": 300,
+      "image": "https://bfoodale.com/uploads/2021/12/Mutton-Biryani.jpg"
+    },
+    {
+      "id": "10",
+      "category": "non-veg",
+      "itemname": "prawns-biriyani",
+      "price": 280,
+      "image": "https://mariasmenu.com/wp-content/uploads/Prawns-Biriyani.jpg"
+    },
+    {
+      "id": "11",
+      "category": "non-veg",
+      "itemname": "panner-biriyni",
+      "price": 200,
+      "image": "https://kitchenmai.com/wp-content/uploads/2020/07/paneer_bir_blog.jpg"
+    },
+    {
+      "id": "12",
+      "category": "non-veg",
+      "itemname": "chicken tikka biriyani",
+      "price": 350,
+      "image": "https://i.pinimg.com/736x/3d/66/52/3d66521aa2a89ecd121f6ab07d86fb16.jpg"
+    },
+    {
+      "id": "9774",
+      "category": "veg",
+      "itemname": "Hyderabadi Sofiyani Biryani",
+      "price": 220,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsf6piWKV5iabavOwslYc0vgkfRdBADIdaFLr5j_MzQ&s"
+    },
+    {
+      "id": "0c53",
+      "category": "veg",
+      "itemname": "Minty Paneer Biryani",
+      "price": 320,
+      "image": "https://i.pinimg.com/736x/2f/a3/07/2fa3077291f6622030c7b9d81b4432c8.jpg"
+    },
+    {
+      "id": "64bb",
+      "category": "veg",
+      "itemname": "Layered Bread Kofta Biryani",
+      "price": 180,
+      "image": "https://cdn.tarladalal.com/members/9306/big/big_bread_kofta_biryani_(__chawal)-11750.jpg"
+    },
+    {
+      "id": "3c38",
+      "category": "veg",
+      "itemname": "Almond Birya",
+      "price": 180,
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg"
+    },
+    {
+      "id": "f98c",
+      "category": "veg",
+      "itemname": "Almond Birya",
+      "price": 180,
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg"
+    },
+       {
+      "id": "b8c6",
+      "category": "non-veg",
+      "itemname": "panner-biriyni",
+      "price": 200,
+      "image": "https://kitchenmai.com/wp-content/uploads/2020/07/paneer_bir_blog.jpg"
+    },
+    {
+      "id": "5f37",
+      "category": "veg",
+      "itemname": "Almond Birya",
+      "price": 180,
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg"
+    },
+    {
+      "id": "aadf",
+      "category": "veg",
+      "itemname": "Almond Birya",
+      "price": 180,
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg"
+    },
+    {
+      "id": "3f50",
+      "category": "non-veg",
+      "itemname": "chicken tikka biriyani",
+      "price": 350,
+      "image": "https://i.pinimg.com/736x/3d/66/52/3d66521aa2a89ecd121f6ab07d86fb16.jpg"
+    },
+    {
+      "id": "3b21",
+      "category": "non-veg",
+      "itemname": "Chicken-biryani",
+      "price": 250,
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0",
+      "image": "https://i.pinimg.com/736x/2f/a3/07/2fa3077291f6622030c7b9d81b4432c8.jpg",
+      "itemname": "Minty Paneer Biryani",
+      "price": 320,
+      "quantity": 1,
+      "total": 320,
+      "userName": "admin"
+    },
+    {
+      "id": "0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdYPQeCIVew1lqKw1zIcxUaYZ8GAL9WXkrhHq-gRrAg&s",
+      "itemname": "Kabuli Chana Kofta Biryani",
+      "price": 210,
+      "quantity": 3,
+      "total": 630,
+      "userName": "admin"
+    },
+    {
+      "id": "0",
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg",
+      "itemname": "Almond Birya",
+      "price": 180,
+      "quantity": 1,
+      "total": 180,
+      "userName": "admin"
+    },
+    {
+      "id": 0,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsf6piWKV5iabavOwslYc0vgkfRdBADIdaFLr5j_MzQ&s",
+      "itemname": "Hyderabadi Sofiyani Biryani",
+      "price": 220,
+      "quantity": 4,
+      "total": 880,
+      "userName": "admin"
+    }
+  ],
+  "order": [
+    {
+      "id": "836b",
+      "orderDate": "2024-04-09T09:27:44.140Z",
+      "userName": "admin",
+      "totalAmount": 6650
+    },
+    {
+      "id": "548e",
+      "orderDate": "2024-04-09T09:32:10.169Z",
+      "userName": "admin",
+      "totalAmount": 320
+    },
+    {
+      "id": "4338",
+      "orderDate": "2024-04-09T09:34:00.308Z",
+      "userName": "admin",
+      "totalAmount": 320
+    },
+    {
+      "id": "cbfe",
+      "orderDate": "2024-04-09T09:35:22.084Z",
+      "userName": "admin",
+      "totalAmount": 320
+    },
+    {
+      "id": "df18",
+      "orderDate": "2024-04-09T09:44:18.761Z",
+      "userName": "admin",
+      "totalAmount": 320
+    },
+    {
+      "id": "23ad",
+      "orderDate": "2024-04-09T17:42:33.887Z",
+      "userName": "admin",
+      "totalAmount": 500
+    },
+    {
+      "id": "b822",
+      "orderDate": "2024-04-09T18:16:34.948Z",
+      "userName": "admin",
+      "totalAmount": 2220
+    },
+    {
+      "id": "bf6c",
+      "orderDate": "2024-04-09T18:18:50.795Z",
+      "userName": "admin",
+      "totalAmount": 7080
+    },
+    {
+      "id": "5b2c",
+      "orderDate": "2024-04-09T18:30:56.234Z",
+      "userName": "admin",
+      "totalAmount": 8740
+    },
+    {
+      "id": "29e9",
+      "orderDate": "2024-04-09T18:48:34.271Z",
+      "userName": "admin",
+      "totalAmount": 320
+    },
+    {
+      "id": "f248",
+      "orderDate": "2024-04-10T08:09:46.149Z",
+      "userName": "admin",
+      "totalAmount": 560
+    },
+    {
+      "id": "8465",
+      "orderDate": "2024-04-10T09:46:47.909Z",
+      "userName": "admin",
+      "totalAmount": 2140
+    },
+    {
+      "id": "3b37",
+      "orderDate": "2024-04-10T10:03:15.758Z",
+      "userName": "admin",
+      "totalAmount": 2460
+    },
+    {
+      "id": "3120",
+      "orderDate": "2024-04-10T10:03:51.892Z",
+      "userName": "admin",
+      "totalAmount": 2460
+    },
+    {
+      "id": "4bd8",
+      "orderDate": "2024-04-16T06:12:29.552Z",
+      "userName": "admin",
+      "totalAmount": 560
+    },
+    {
+      "id": "3732",
+      "orderDate": "2024-04-16T06:13:26.472Z",
+      "userName": "admin",
+      "totalAmount": 760
+    },
+    {
+      "id": "eb4a",
+      "orderDate": "2024-04-16T06:47:38.479Z",
+      "userName": "admin",
+      "totalAmount": 1000
+    },
+    {
+      "id": "eaf3",
+      "orderDate": "2024-04-17T17:17:24.826Z",
+      "userName": "admin",
+      "totalAmount": 1220
+    },
+    {
+      "id": "d9f9",
+      "orderDate": "2024-04-17T17:45:35.836Z",
+      "userName": "admin",
+      "totalAmount": 950
+    },
+    {
+      "id": "8f40",
+      "orderDate": "2024-04-17T17:46:33.891Z",
+      "userName": "admin",
+      "totalAmount": 950
+    },
+    {
+      "id": "f306",
+      "orderDate": "2024-04-17T17:48:29.843Z",
+      "userName": "admin",
+      "totalAmount": 950
+    },
+    {
+      "id": "f23d",
+      "orderDate": "2024-04-17T18:07:05.063Z",
+      "userName": "admin",
+      "totalAmount": 950
+    },
+    {
+      "id": "f78f",
+      "orderDate": "2024-04-17T18:15:30.957Z",
+      "userName": "admin",
+      "totalAmount": 630
+    },
+    {
+      "id": "f05c",
+      "orderDate": "2024-04-17T18:18:04.416Z",
+      "userName": "admin",
+      "totalAmount": 630
+    },
+    {
+      "id": "de4a",
+      "orderDate": "2024-04-17T18:20:39.046Z",
+      "userName": "admin",
+      "totalAmount": 180
+    },
+    {
+      "id": "b6b9",
+      "orderDate": "2024-04-17T18:37:29.534Z",
+      "userName": "admin",
+      "totalAmount": 1130
+    },
+    {
+      "id": "d2ab",
+      "orderDate": "2024-04-18T04:32:11.653Z",
+      "userName": "admin",
+      "totalAmount": 2010
+    }
+  ]
+}
